@@ -1,0 +1,9 @@
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/actool/partial-info.plist
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/actool/Assets.car
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/Default-568h@2x.png
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/bin/iPhone/Debug/RoundedBoxViewRendereriOS.exe.mdb
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/bin/iPhone/Debug/RoundedBoxViewRendereriOS.exe
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/RoundedBoxViewRendereriOS.exe
+/Users/vagabondganing/Development/GitHub/Xamarin/RoundedBoxViewRenderer/RoundedBoxViewRenderer.iOS/obj/iPhone/Debug/RoundedBoxViewRendereriOS.exe.mdb
